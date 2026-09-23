@@ -11,3 +11,4 @@ plt.title("Đồ thị hàm số y = 2^x")
 plt.xlabel("Ox")
 plt.ylabel("Oy")
 plt.show() # Hiển thị đồ thị
+plt.savefig('exponential_graph.png')
